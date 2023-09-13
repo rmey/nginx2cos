@@ -1,0 +1,3 @@
+[submodule "nginx-s3-gateway"]
+	path = nginx-s3-gateway
+	url = https://github.com/nginxinc/nginx-s3-gateway
